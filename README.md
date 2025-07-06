@@ -27,10 +27,6 @@ This app offers users a chance to “travel through time” by viewing historica
 - Figma (UI/UX Design)
 - JSON (for local content and structure)
 
-## 📷 Screenshots
-
-![Home Timeline](screenshots/timeline.png)
-![Capsule Detail](screenshots/detail.png)
 
 > *(Add images inside a folder called `screenshots/` inside your repo)*
 
